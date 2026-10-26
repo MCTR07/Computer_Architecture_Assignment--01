@@ -1,0 +1,26 @@
+Q1(a): 25 + 18
+Operand 1:   25 -> 00011001
+Operand 2:   18 -> 00010010
+Result    :   43 -> 00101011
+Overflow  : No
+
+Q1(b): (-25) + (-18)
+Operand 1:  -25 -> 11100111
+Operand 2:  -18 -> 11101110
+Result    :  -43 -> 11010101
+Overflow  : No
+
+
+Q2(a): Logical Left Shift
+Original: 10110110
+After left shift 1: 01101100
+After left shift 2: 11011000
+Final result: 11011000
+Decimal: 216
+
+Q2(b): Logical Right Shift
+Original: 10101000
+After right shift 1: 01010100
+After right shift 2: 00101010
+Final result: 00101010
+Decimal: 42
